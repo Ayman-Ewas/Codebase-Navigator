@@ -32,11 +32,11 @@ This project takes a public GitHub repository, then you can ask it any question 
 
 # Technologies Used
 
-Mistral from hugging hub.
-RAG
-LangChain
-FastAPI
-Streamlit
+- Mistral from hugging hub.
+- RAG
+- LangChain
+- FastAPI
+- Streamlit
 
 ---
 
