@@ -1,4 +1,4 @@
-# 🚀 [Tips Hindawi](https://www.tipshindawi.com/) Internship (August–October) 2026
+# [Tips Hindawi](https://www.tipshindawi.com/) Internship (August–October) 2026
 
 > 🎓 This project was built during the [ **Tips Hindawi** ](https://www.tipshindawi.com/) **Internship (August–October) 2026**.
 
@@ -15,13 +15,13 @@
 
 ---
 
-# 📖 Project Overview
+# Project Overview
 
 This project takes a public GitHub repository, then you can ask it any question about it. It can explain concepts and return code snippets from your repo.
 
 ---
 
-# ✨ Features
+# Features
 
 * Reads Repo
 * Explain concepts in your project
@@ -30,7 +30,7 @@ This project takes a public GitHub repository, then you can ask it any question 
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 Mistral from hugging hub.
 RAG
@@ -40,32 +40,21 @@ Streamlit
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 1- Run the notebook file (codebase-mind.ipynb).
 2- Install streamlit
 3- Run app.py with streamlit (streamlit run app.py).
 ---
 
-# 🚀 Usage
+# Usage
 
 Enter a public GitHub repository's URL, then ask questions you need.
 
 ---
 
-# 📸 Demo
 
-Add screenshots, GIFs, or a demo video.
-
-
-
-# 📈 Results
-
-Share your project's outcomes or achievements.
-
----
-
-# 🔮 Future Improvements
+# Future Improvements
 
 * Make a window to show repo files or select specific file
 * Ask within the selected file 
